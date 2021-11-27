@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemigos
+  - balax
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - plataformas
+  - Water
+  - UI
+  - mxbala
+  - relleno
+  - enemigos
+  - jugador
+  - balasEn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 2618395431
+    locked: 0
+  - name: plataformas
+    uniqueID: 2976550469
+    locked: 0
+  - name: jugador
+    uniqueID: 3538746015
+    locked: 0
+  - name: enemigos
+    uniqueID: 4270201181
+    locked: 0
