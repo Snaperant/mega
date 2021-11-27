@@ -140,6 +140,7 @@ public class movimiento : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                AudioSource.PlayClipAtPoint(sfx_saltar, Camera.main.transform.position);
                 mybody.velocity = new Vector2(mybody.velocity.x, 0);
                 mybody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
                 myAnimator.SetTrigger("Jump");
